@@ -1,8 +1,0 @@
-Projeto Super Mario Bros.
-
-Projeto desenvolvido como uma página de serviços de encanadores na qual o o cliente informa seus dados e informa qual o serviço que deseja. Ele foi desenvolvido juntamente com o meu mentor Rodolfo Mori na formação FullStack Pro do Dev Club
-
-Tecnologias utilizadas:
-- HTML
-- CSS
-- JavaScript
